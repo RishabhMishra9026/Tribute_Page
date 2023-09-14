@@ -1,0 +1,33 @@
+
+.container{
+    background-color: rgb(72, 62, 62);
+}
+.sizeimg{
+    height: 350px;
+    width: 450px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 12px;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 350%;
+    color: rgb(42, 42, 210);
+}
+.content
+{
+    border: solid 2px rgb(142, 65, 65);
+    height: 500px;
+    width: 600px;
+    margin-left: 350px;
+    margin-top: 30px;
+    border-radius: 12px;
+    color: blueviolet;
+    font-family: roboto;
+    background: #908282;
+}
+.col{
+    background: rgb(30, 32, 32);
+}
